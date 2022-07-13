@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PPSC Academics Marks Merit Calculator</string>
+    <string name="matric">Matric</string>
+    <string name="inter">Inter</string>
+    <string name="bechelors">Bechelors</string>
+    <string name="masters">Masters</string>
+    <string name="matric_o_level">Matric / O Level</string>
+    <string name="enter_obtained_marks">Enter Obtained Marks</string>
+    <string name="enter_total_marks">Enter Total Marks</string>
+    <string name="submit">Submit</string>
+    <string name="final_result">Final Result</string>
+    <string name="_40_40">40/40</string>
+    <string name="intermediate_a_level">Intermediate/A-Level</string>
+    <string name="show_final_result">Show Final Result</string>
+    <string name="fsc">Fsc / Inter / ICS</string>
+    <string name="bscs">BA/BSCS/B.COM/BS</string>
+    <string name="ma_msc_m_com">Ma/Msc/M.Com</string>
+    <string name="please_select_your_education_system">Please Select Your Education System</string>
+
+    <string name="adsBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="Admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
